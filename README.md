@@ -1,9 +1,16 @@
-## Hi there 👋 My name is Paul
+# Paul Marshall
+📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
-**Commercial & Operations Leader | Enterprise AI Developer / Deployer**
-*Yorkshire, UK • [Email](mailto:pmarshall1012@gmail.com)*
 
-I bridge the gap between **executive commercial P&L ownership** and **hands-on AI systems engineering**. With over 20 years of senior commercial leadership across aerospace, defense, energy, and industrial gases I design and deploy AI automations that eliminate operational friction and drive tangible enhancements across key enterprise processes.
+**Pan-Enterprise Capability x AI Automation & Optimisation**
+
+Bridging the gap between deep commercial & operational enterprise knowledge and hands-on, AI-native process automation and optimisation
+
+20 years of senior commercial leadership across aerospace, defense, energy and industrial sectors
+
+I design and deploy AI-native automation and full stack applications, that plug and play seamlessly into existing IT infrastructre 
+
+The goal: Eliminate operational friction and drive tangible enhancements across key enterprise processes.
 
 ---
 
