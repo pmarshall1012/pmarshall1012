@@ -1,18 +1,15 @@
 # Paul Marshall
 📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
+**Pan-Enterprise Capability meets AI Automation & Optimisation**
 
-**Pan-Enterprise Capability x AI Automation & Optimisation**
-
-Bridging the gap between deep commercial & operational enterprise knowledge and hands-on, AI-native process automation and optimisation
-
-20 years of senior commercial leadership across aerospace, defense, energy and industrial sectors
-
-I design and deploy AI-native automation and full stack applications, that plug and play seamlessly into existing IT infrastructre 
-
-The goal: Eliminate operational friction and drive tangible enhancements across key enterprise processes.
-
+> Bridging the gap between deep enterprise knowledge, and hands-on process automation and optimisation
+> 
+> 20 years of senior commercial leadership across aerospace, defense, energy and industrial sectors
+> 
 ---
+
+I design and deploy AI-native automation and full stack applications that plug and play seamlessly into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancements across key enterprise processes.
 
 ### Core Thesis: Friction Elimination at Scale
 
@@ -26,25 +23,18 @@ Most enterprise AI initiatives fail not because the models lack capability, but 
 
 ### Featured Systems & Builds
 
-#### 1. **Gatehouse** — *Unstructured-to-Structured Operational Data Handoff Engine*
-* **Problem:** Operational teams lose hours manually translating messy incoming communications (emails, PDFs, field notes, receipts) into structured ERP/CRM records across heterogeneous customer tech stacks.
-* **Architecture:** Implements a canonical data model paired with AI-assisted field mapping and universal egress adapters—eliminating the need for brittle, bespoke point-to-point connectors.
-* **Stack:** `TypeScript` • `Node.js` • `LLM Structured Outputs` • `JSON Schema Validation`
-
-* ### Gatehouse Architecture: Unstructured-to-Structured Data Handoff
-
-#### 2. *Field Diagnostics to Engineer Despatch - Fully Automated*
+#### *Field Diagnostics to Engineer Despatch - Fully Automated*
 * **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
 * **Architecture:** A mobile-responsive web application that guides venue staff through interactive diagnostic trees, auto-populates equipment serial numbers, and compiles validated **SAP OData JSON payloads** for automated engineer dispatch.
 * **Impact:** Compressed triage-to-dispatch cycle times and eliminated manual data re-entry across field service operations.
 * **Stack:** `Google Apps Script` • `JavaScript (ES6+)` • `HTML5/CSS3` • `SAP S/4HANA OData`
 
-#### 3. **DataMonster** — *Air-Gapped, Local-First Data Ingestion & Reconciliation Engine*
-* **Problem:** SMEs and commercial operations frequently need to audit, clean, and reconcile mismatched operational CSV/ledger exports without exposing sensitive commercial data to third-party cloud SaaS tools.
-* **Architecture:** Local-first ingestion, profiling, and reconciliation platform featuring deterministic schema validation, double-entry ledger logic, and zero external data leakage.
-* **Stack:** `Next.js 16` • `React 19` • `TypeScript` • `FastAPI` • `SQLite (WAL Mode)` • `Tailwind CSS`
+#### *Maths Quest - Bridging SATs and Secondary Education*
+[tbc]
 
-#### 4. **HALO Engine (v3)** — *Multi-Agent Autonomous Execution Sandbox*
+Sales App
+
+#### 4. **HALO Engine** — *Multi-Agent Autonomous Execution Sandbox*
 * **Problem:** Single-prompt LLM coding workflows lack isolated execution verification, persistent architectural memory, and structured multi-agent review.
 * **Architecture:** An orchestrated multi-agent software development environment featuring isolated cloud sandboxes, real-time WebSocket telemetry, and persistent cross-session memory.
 * **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`
