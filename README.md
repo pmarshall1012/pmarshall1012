@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi there 👋 My name is Paul
 
-# Paul Marshall
+**Commercial & Operations Leader | Enterprise AI Developer / Deployer**
+*Yorkshire, UK • [Email](mailto:pmarshall1012@gmail.com)*
 
-**Commercial & Operations Leader | Enterprise AI Workflow Architect**  
-*North Lincolnshire, United Kingdom • [Email](mailto:pmarshall1012@gmail.com)*
-
-I bridge the gap between **executive commercial P&L ownership** and **hands-on AI systems engineering**. With over 20 years of senior commercial leadership across aerospace, defense, energy, and industrial gases (Air Liquide, Lockheed Martin, Raytheon, Weir Group), I design and deploy deterministic, local-first AI automations that eliminate unstructured-to-structured operational friction.
+I bridge the gap between **executive commercial P&L ownership** and **hands-on AI systems engineering**. With over 20 years of senior commercial leadership across aerospace, defense, energy, and industrial gases I design and deploy AI automations that eliminate operational friction and drive tangible enhancements across key enterprise processes.
 
 ---
 
