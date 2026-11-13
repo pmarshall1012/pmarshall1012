@@ -26,6 +26,8 @@ Most enterprise AI initiatives fail not because the models lack capability, but 
 * **Architecture:** Implements a canonical data model paired with AI-assisted field mapping and universal egress adapters—eliminating the need for brittle, bespoke point-to-point connectors.
 * **Stack:** `TypeScript` • `Node.js` • `LLM Structured Outputs` • `JSON Schema Validation`
 
+* ### Gatehouse Architecture: Unstructured-to-Structured Data Handoff
+
 #### 2. *Field Diagnostics to Engineer Despatch - Fully Automated*
 * **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
 * **Architecture:** A mobile-responsive web application that guides venue staff through interactive diagnostic trees, auto-populates equipment serial numbers, and compiles validated **SAP OData JSON payloads** for automated engineer dispatch.
@@ -63,21 +65,6 @@ Most enterprise AI initiatives fail not because the models lack capability, but 
 
 ---
 
-### Current Focus
+### Focus Areas
 
-Transitioning full-time into **Enterprise AI Automation, Forward-Deployed Engineering, and Commercial AI Strategy**—partnering with organizations to turn operational bottlenecks into auditable, production-grade software systems.
-
-<!--
-**pmarshall1012/pmarshall1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Enterprise AI Automation - Forward-Deployed Engineering - Commercial AI Strategy** - partnering with organisations to turn operational bottlenecks into frictionless business automation.
