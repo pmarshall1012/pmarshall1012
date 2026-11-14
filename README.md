@@ -8,11 +8,22 @@
 > 
 ---
 
-I design, test and deploy AI-native automation and full stack applications, integrated seamlessly into existing IT infrastructure. The goal: Eliminate operational friction and drive tangible enhancement throughout core enterprise processes (quote to contract, order to cash, fault / non conformance management).
+All business depends on a core set of repeating patterns: negotiate deals, sign contracts. Place orders, deliver. Raise invoices, collect cash. The fundamental pattern of enterprising endeavour.
+
+Where do I come in? I design, test and deploy AI-native automation and full stack applications integrated into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement throughout core business process (quote to contract, order to cash, fault / non conformance management).
+
+My deep commercial business experience taught me what truly matters in business. My ability to optimise these areas and build custom solutions is what drives the value. 
 
 ---
 
 ### Featured Builds
+
+Section TBC
+
+HALO
+Fault Diagnostics App
+Sales App
+Maths Quest
 
 #### *Field Diagnostics to Engineer Despatch - Fully Automated*
 * **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
@@ -36,10 +47,10 @@ Sales App
 
 | Domain | Capabilities & Tooling |
 | :--- | :--- |
-| **AI & Agentic Systems** | Multi-Agent Orchestration, Structured Output Extraction, RAG / Long-Term Memory (`Mem0`), Prompt Engineering, Gemini / OpenRouter / DeepSeek / Qwen Harnesses |
-| **Languages & Frameworks** | JavaScript (`ES6+`), TypeScript, Python, Node.js, Next.js, React, FastAPI, Google Apps Script (`GAS`) |
-| **Data & Enterprise Systems** | SQLite (Relational Schema & Double-Entry Design), SAP S/4HANA (OData & Scripting), Google Workspace Enterprise, CSV/JSON ETL Pipelines |
-| **Commercial & Governance** | P&L Management (£multi-million portfolios), Contract Negotiation, Continuous Improvement (Lean/Six Sigma), US-UK ITAR Export Compliance, AI Governance |
+| **AI & Agentic Systems** | Multi-Agent Orchestration, Structured Output Extraction (e.g. JSON), RAG / Long-Term Memory (`Mem0`), Prompt Engineering, Model-agnostic Harnesses |
+| **Languages & Frameworks** | JavaScript (`ES6+`), TypeScript, Python, Node.js, Next.js, React, FastAPI, Google Apps Script |
+| **Data & Enterprise Systems** | SQLite, SAP S/4HANA, Google Workspace, CSV/JSON ETL Pipelines |
+| **Commercial & Governance** | P&L Management (£multi-million portfolios), Contract Negotiation, Continuous Improvement (Lean/Six Sigma), US-UK ITAR Export Compliance |
 
 ---
 
