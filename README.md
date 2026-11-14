@@ -1,7 +1,6 @@
 # Paul Marshall
 📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
-**Pan-Enterprise Capability meets AI Automation & Optimisation**
 
 > Bridging the gap between deep enterprise knowledge, and hands-on process automation and optimisation
 > 
@@ -9,19 +8,21 @@
 > 
 ---
 
-I design and deploy AI-native automation and full stack applications that plug and play seamlessly into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancements across key enterprise processes.
+I design and deploy AI-native automation and full stack applications, integrated seamlessly into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement across core enterprise processes (quote to contract, order to cash, fault / non conformance management)
 
-### Core Thesis: Friction Elimination at Scale
+### Friction Elimination at Scale
 
-Most enterprise AI initiatives fail not because the models lack capability, but because they are disconnected from real-world operational workflows, legacy ERP constraints, and commercial governance. My approach combines:
+Most enterprise AI initiatives fail because they are disconnected from real-world operational workflows, legacy ERP constraints, and commercial governance. My approach combines:
 
 * **First-Principles Process Decomposition:** Identifying manual data-shuttling bottlenecks across field operations, commercial quoting, and back-office reconciliation.
-* **Canonical Data & Deterministic Guardrails:** Using LLMs for unstructured ingestion and schema mapping while enforcing strict validation, relational integrity, and human-in-the-loop (HITL) controls before writing to systems of record (e.g., SAP S/4HANA).
-* **Lean, High-Leverage Deployment:** Building fast, maintainable tools using modern JavaScript/TypeScript, Python, SQLite, and Google Workspace Enterprise—avoiding bloated middleware where targeted automation delivers immediate ROI.
+* **Canonical Data & Deterministic Guardrails:** Using LLMs for unstructured ingestion and schema mapping while enforcing strict validation, relational integrity, and human-in-the-loop (HITL) controls before writing to systems of record (e.g. SAP, Oracle).
+* **Lean, High-Leverage Deployment:** Building fast, maintainable tools using modern JavaScript/TypeScript, Python, SQLite, and Google Workspace, delivering tangible, long term ROI.
 
 ---
 
 ### Featured Systems & Builds
+
+Here is a selection of recent projects.
 
 #### *Field Diagnostics to Engineer Despatch - Fully Automated*
 * **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
@@ -57,9 +58,3 @@ Sales App
 * **Google Cloud Certified:** Generative AI Leader *(2026)*
 * **Postgraduate Certificate (PgCert) in Business Management (SCQF Level 11):** University of Strathclyde
 * **20+ Years Senior Commercial Leadership:** Air Liquide UK, Weir Group, Lockheed Martin, Raytheon
-
----
-
-### Focus Areas
-
-**Enterprise AI Automation - Forward-Deployed Engineering - Commercial AI Strategy** - partnering with organisations to turn operational bottlenecks into frictionless business automation.
