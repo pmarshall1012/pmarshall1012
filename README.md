@@ -1,28 +1,66 @@
 # Paul Marshall
-📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
+📍 *Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
-### Bridging the gap between deep enterprise knowledge and software-driven process automation
+### Bridging deep enterprise leadership with AI-native process automation
 
 ---
 
-All business depends on a core set of repeating patterns. Attract business. Negotiate deals. Sign contracts. Take orders. Raise orders. Deliver. Raise invoices. Collect cash. Pay people.
+Every business runs on a core set of repeating patterns: **Attract business. Negotiate deals. Sign contracts. Take orders. Raise orders. Deliver. Raise invoices. Collect cash. Pay people.**
 
-### **Where do I come in?**
+### Where I Come In
 
-I design, test and deploy AI-native automation and full stack applications, integrated into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement throughout core business process (lead generation, quote to contract, order to cash, fault / non conformance management). 
+I design, test, and deploy AI-native automations and full-stack applications that integrate directly into existing enterprise infrastructure. **The goal:** eliminate operational friction and drive measurable efficiency across core business processes—from lead generation and quote-to-contract to order-to-cash and non-conformance management.
 
-My deep, real world business experience taught me what matters in business. My ability to optimise these areas through custom solutions is what drives the value.
+Twenty years of commercial leadership taught me what actually moves the needle in complex organisations. Building custom software to optimise those bottlenecks is how I deliver value.
 
 ---
 
 ### Featured Builds
 
-| Name | Description | Preview |
-| :--- | :--- | :--- |
-| HALO Agent Harness | **HALO is a model-agnostic, persistent, multi-agent software development environment.** Agents operate within virtual Linux machines created for each new session. You specify the goal. The core HALO Agent creates a technical specification and a suite of read-only tests to verify compliance. These are passed to an execution agent, who performs the actual work. The HALO Agent remains independent, verifying the output of the execution agent passes the tests. Until the output passes, the loop continues to execute. The execution agent can create sub-agents to assist in completing the task. Persistent cross-session memory to "learn on the job". **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`  | link or clip |
-| Fault Reporting App | write up tbc | link or clip |
-| Sales App | write up tbc | link or clip |
-| Maths Quest | Gamified SAT preparatory tool. Built for my son. Shared for free. | link or clip |
+#### 1. HALO Agent Harness
+**A model-agnostic, persistent, multi-agent software development environment.**  
+Built to solve the reliability gap in autonomous coding, HALO separates planning and verification from execution inside isolated virtual Linux sandboxes (`E2B`):
+- **Independent Verification Loop:** A core orchestrator generates the technical spec and a suite of read-only compliance tests before passing work to an execution agent (and any sub-agents it spawns). Output is rejected and iterated until all tests pass.
+- **Persistent Memory:** Cross-session memory (`Mem0`) allows agents to retain context and architectural decisions across tasks.
+
+**Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`
+
+*(Drag & drop your HALO .mp4 clip on the line below — keep blank lines above and below)*
+
+
+---
+
+#### 2. Enterprise Fault Reporting & Triage App
+**Self-service diagnostic web application integrated with SAP S/4HANA.**  
+- **The Problem:** *[1 sentence on manual support bottlenecks / call-centre friction]*
+- **The Solution:** *[1–2 sentences on QR-triggered guided diagnostics, automated payload generation, and resolution speed]*
+
+**Stack:** `Google Apps Script` • `JavaScript (ES6+)` • `SAP S/4HANA (OData/JSON)`
+
+*(Drag & drop your Fault App .mp4 clip on the line below)*
+
+
+---
+
+#### 3. Commercial Sales & Quoting Automation
+**Automated pipeline / commercial workflow tool.**  
+- **The Problem:** *[1 sentence on manual data entry / commercial friction]*
+- **The Solution:** *[1–2 sentences on what the app automates and the business outcome]*
+
+**Stack:** `JavaScript` • `Google Workspace` • `[Other Tech]`
+
+*(Drag & drop your Sales App .mp4 clip on the line below)*
+
+
+---
+
+#### 4. Maths Quest (KS2 SATs Edition)
+**Gamified, space-themed mathematics preparation platform built for my 10-year-old son and shared freely.**  
+Turns Key Stage 2 curriculum revision into an interactive progression game with instant feedback and adaptive difficulty.
+
+**Stack:** `JavaScript` • `HTML5 / CSS3`
+
+https://github.com/user-attachments/assets/c30163ef-8b48-4768-85bc-4ce02f7e80fa
 
 ---
 
@@ -30,15 +68,15 @@ My deep, real world business experience taught me what matters in business. My a
 
 | Domain | Capabilities & Tooling |
 | :--- | :--- |
-| **AI & Agentic Systems** | Multi-Agent Orchestration, Structured Output Extraction (e.g. JSON), RAG / Long-Term Memory (`Mem0`), Prompt Engineering, Model-agnostic Harnesses |
+| **AI & Agentic Systems** | Multi-Agent Orchestration, Structured Output Extraction (JSON), RAG & Long-Term Memory (`Mem0`), Prompt Engineering, Model-Agnostic Harnesses |
 | **Languages & Frameworks** | JavaScript (`ES6+`), TypeScript, Python, Node.js, Next.js, React, FastAPI, Google Apps Script |
 | **Data & Enterprise Systems** | SQLite, SAP S/4HANA, Google Workspace, CSV/JSON ETL Pipelines |
 | **Commercial & Governance** | P&L Management (£multi-million portfolios), Contract Negotiation, Continuous Improvement (Lean/Six Sigma), US-UK ITAR Export Compliance |
 
 ---
 
-### Credentials & Milestones
+### Credentials
 
-* **Google Cloud Certified:** Generative AI Leader *(2026)*
-* **Postgraduate Certificate (PgCert) in Business Management (SCQF Level 11):** University of Strathclyde
-* **20+ Years Senior Commercial Leadership:** Air Liquide UK, Weir Group, Lockheed Martin, Raytheon
+- **Google Cloud Certified:** Generative AI Leader *(2026)*
+- **Postgraduate Certificate (PgCert) in Business Management (SCQF Level 11):** University of Strathclyde
+- **20+ Years Senior Commercial Leadership:** Air Liquide UK, Weir Group, Lockheed Martin, Raytheon
