@@ -1,43 +1,28 @@
 # Paul Marshall
 📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
+### Bridging the gap between deep enterprise knowledge and software-driven process automation
 
-> Bridging the gap between deep enterprise knowledge and software-driven process automation
-> 
-> 20 years of senior commercial leadership across aerospace, defense, energy and industrial sectors
-> 
 ---
 
-All business depends on a core set of repeating patterns: attract business. Negotiate deals. Sign contracts. Raise orders. Take orders. Deliver. Raise invoices. Collect cash. Rinse and Repeat.
+All business depends on a core set of repeating patterns. Attract business. Negotiate deals. Sign contracts. Take orders. Raise orders. Deliver. Raise invoices. Collect cash. Pay people.
 
-Where do I come in? I design, test and deploy AI-native automation and full stack applications integrated into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement throughout core business process (quote to contract, order to cash, fault / non conformance management). My deep, real world business experience taught me what truly matters in business. My ability to optimise these areas and build custom solutions is what drives the value.
+### **Where do I come in?**
+
+I design, test and deploy AI-native automation and full stack applications, integrated into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement throughout core business process (lead generation, quote to contract, order to cash, fault / non conformance management). 
+
+My deep, real world business experience taught me what matters in business. My ability to optimise these areas through custom solutions is what drives the value.
 
 ---
 
 ### Featured Builds
 
-| Name | Function |
+| Name | Description | Preview |
 | :--- | :--- | :--- |
-| HALO Agentic Harness | tbc | link or clip |
-| Fault Reporting App | tbc | link or clip |
-| Sales App | tbc | link or clip |
-| Maths Quest | Gamified SAT preparatory tool for maths. Built for my son, to help him achieve the best marks possible. | link or clip |
-
-#### *Field Diagnostics to Engineer Despatch - Fully Automated*
-* **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
-* **Architecture:** A mobile-responsive web application that guides venue staff through interactive diagnostic trees, auto-populates equipment serial numbers, and compiles validated **SAP OData JSON payloads** for automated engineer dispatch.
-* **Impact:** Compressed triage-to-dispatch cycle times and eliminated manual data re-entry across field service operations.
-* **Stack:** `Google Apps Script` • `JavaScript (ES6+)` • `HTML5/CSS3` • `SAP S/4HANA OData`
-
-*Maths Quest - Bridging SATs and Secondary Education*
-[tbc]
-
-Sales App
-
-4. **HALO Engine** — *Multi-Agent Autonomous Execution Sandbox*
-* **Problem:** Single-prompt LLM coding workflows lack isolated execution verification, persistent architectural memory, and structured multi-agent review.
-* **Architecture:** An orchestrated multi-agent software development environment featuring isolated cloud sandboxes, real-time WebSocket telemetry, and persistent cross-session memory.
-* **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`
+| HALO Agent Harness | **HALO is a model-agnostic, persistent, multi-agent software development environment.** Agents operate within virtual Linux machines created for each new session. You specify the goal. The core HALO Agent creates a technical specification and a suite of read-only tests to verify compliance. These are passed to an execution agent, who performs the actual work. The HALO Agent remains independent, verifying the output of the execution agent passes the tests. Until the output passes, the loop continues to execute. The execution agent can create sub-agents to assist in completing the task. Persistent cross-session memory to "learn on the job". **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`  | link or clip |
+| Fault Reporting App | write up tbc | link or clip |
+| Sales App | write up tbc | link or clip |
+| Maths Quest | Gamified SAT preparatory tool. Built for my son. Shared for free. | link or clip |
 
 ---
 
