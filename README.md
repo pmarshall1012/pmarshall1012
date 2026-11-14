@@ -2,27 +2,17 @@
 📍*Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
 
-> Bridging the gap between deep enterprise knowledge, and hands-on process automation and optimisation
+> Bridging the gap between deep enterprise knowledge and software-driven process automation
 > 
 > 20 years of senior commercial leadership across aerospace, defense, energy and industrial sectors
 > 
 ---
 
-I design and deploy AI-native automation and full stack applications, integrated seamlessly into existing IT infrastructure. The goal: Eliminate operational friction, drive tangible enhancement across core enterprise processes (quote to contract, order to cash, fault / non conformance management)
-
-### Friction Elimination at Scale
-
-Most enterprise AI initiatives fail because they are disconnected from real-world operational workflows, legacy ERP constraints, and commercial governance. My approach combines:
-
-* **First-Principles Process Decomposition:** Identifying manual data-shuttling bottlenecks across field operations, commercial quoting, and back-office reconciliation.
-* **Canonical Data & Deterministic Guardrails:** Using LLMs for unstructured ingestion and schema mapping while enforcing strict validation, relational integrity, and human-in-the-loop (HITL) controls before writing to systems of record (e.g. SAP, Oracle).
-* **Lean, High-Leverage Deployment:** Building fast, maintainable tools using modern JavaScript/TypeScript, Python, SQLite, and Google Workspace, delivering tangible, long term ROI.
+I design, test and deploy AI-native automation and full stack applications, integrated seamlessly into existing IT infrastructure. The goal: Eliminate operational friction and drive tangible enhancement throughout core enterprise processes (quote to contract, order to cash, fault / non conformance management).
 
 ---
 
-### Featured Systems & Builds
-
-Here is a selection of recent projects.
+### Featured Builds
 
 #### *Field Diagnostics to Engineer Despatch - Fully Automated*
 * **Problem:** High-volume customer support and engineer dispatch for Drinks Dispense Units (DDUs) suffered from incomplete diagnostic triage and manual ticket entry into SAP.
