@@ -1,15 +1,15 @@
 # Paul Marshall
-📍 *Yorkshire, UK* | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
+📍 UK | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
 ### Bridging deep enterprise leadership with AI-native process automation
 
 ---
 
-Every business runs on a core set of repeating patterns: **Attract business. Negotiate deals. Sign contracts. Take orders. Raise orders. Deliver. Raise invoices. Collect cash. Pay people.**
+Every business runs on a core set of repeating patterns. **Attract. Negotiate. Deal. Order. Deliver. Get Paid. Pay Bills.**
 
 ### Where I Come In
 
-I design, test, and deploy AI-native automations and full-stack applications that integrate directly into existing enterprise infrastructure. **The goal:** eliminate operational friction and drive measurable efficiency across core business processes—from lead generation and quote-to-contract to order-to-cash and non-conformance management.
+I design and deploy AI-native automations and applications, integrated into existing enterprise infrastructure. **The goal:** eliminate process friction, drive tangible efficiency across core business processes. In a word; OPTIMISE.
 
 Twenty years of commercial leadership taught me what actually moves the needle in complex organisations. Building custom software to optimise those bottlenecks is how I deliver value.
 
@@ -17,8 +17,8 @@ Twenty years of commercial leadership taught me what actually moves the needle i
 
 ### Featured Builds
 
-#### 1. HALO Agent Harness
-**A model-agnostic, persistent, multi-agent software development environment.**  
+#### HALO Agent Harness
+**Model-agnostic, persistent, multi-agent development environment**  
 Built to solve the reliability gap in autonomous coding, HALO separates planning and verification from execution inside isolated virtual Linux sandboxes (`E2B`):
 - **Independent Verification Loop:** A core orchestrator generates the technical spec and a suite of read-only compliance tests before passing work to an execution agent (and any sub-agents it spawns). Output is rejected and iterated until all tests pass.
 - **Persistent Memory:** Cross-session memory (`Mem0`) allows agents to retain context and architectural decisions across tasks.
@@ -27,10 +27,9 @@ Built to solve the reliability gap in autonomous coding, HALO separates planning
 
 *(Drag & drop your HALO .mp4 clip on the line below — keep blank lines above and below)*
 
-
 ---
 
-#### 2. Enterprise Fault Reporting & Triage App
+#### Enterprise Fault Reporting & Triage App
 **Self-service diagnostic web application integrated with SAP S/4HANA.**  
 - **The Problem:** *[1 sentence on manual support bottlenecks / call-centre friction]*
 - **The Solution:** *[1–2 sentences on QR-triggered guided diagnostics, automated payload generation, and resolution speed]*
@@ -39,10 +38,9 @@ Built to solve the reliability gap in autonomous coding, HALO separates planning
 
 *(Drag & drop your Fault App .mp4 clip on the line below)*
 
-
 ---
 
-#### 3. Commercial Sales & Quoting Automation
+#### Commercial Sales & Contracting Automation
 **Automated pipeline / commercial workflow tool.**  
 - **The Problem:** *[1 sentence on manual data entry / commercial friction]*
 - **The Solution:** *[1–2 sentences on what the app automates and the business outcome]*
@@ -51,11 +49,10 @@ Built to solve the reliability gap in autonomous coding, HALO separates planning
 
 *(Drag & drop your Sales App .mp4 clip on the line below)*
 
-
 ---
 
 #### 4. Maths Quest (KS2 SATs Edition)
-**Gamified, space-themed mathematics preparation platform built for my 10-year-old son and shared freely.**  
+**Gamified, space-themed mathematics preparation platform built for my 10-year-old son. Shared freely.**  
 Turns Key Stage 2 curriculum revision into an interactive progression game with instant feedback and adaptive difficulty.
 
 **Stack:** `JavaScript` • `HTML5 / CSS3`
