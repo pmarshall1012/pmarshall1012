@@ -1,7 +1,7 @@
 # Paul Marshall
 📍 UK | 📧 [Email Me](mailto:pmarshall1012@gmail.com)
 
-### Bridging deep enterprise leadership with AI-native process automation
+### Deep enterprise knowledge x AI-native automation
 
 ---
 
@@ -9,9 +9,9 @@ Every business runs on a core set of repeating patterns. **Attract. Negotiate. D
 
 ### Where I Come In
 
-I design and deploy AI-native automations and applications, integrated into existing enterprise infrastructure. **The goal:** eliminate process friction, drive tangible efficiency across core business processes. In a word; OPTIMISE.
+I design and deploy AI-native automations and applications, integrated into existing enterprise infrastructure. **The Goal:** eliminate process friction, optimise functionality and efficiency across core business processes.
 
-Twenty years of commercial leadership taught me what actually moves the needle in complex organisations. Building custom software to optimise those bottlenecks is how I deliver value.
+Twenty years of commercial leadership taught me what actually moves the needle in complex organisations. Building solutions to optimise those bottlenecks is how I create value.
 
 ---
 
@@ -31,13 +31,13 @@ Built to solve the reliability gap in autonomous coding HALO separates planning,
 ---
 
 #### Enterprise Fault Reporting & Triage App
-**Self-service diagnostic web application integrated with SAP S/4HANA.**  
-- **The Problem:** *[1 sentence on manual support bottlenecks / call-centre friction]*
-- **The Solution:** *[1–2 sentences on QR-triggered guided diagnostics, automated payload generation, and resolution speed]*
+**Self-service diagnostic web application with automated Engineer despatch**  
+- **The Problem:** The business ran on manual telephone fault reporting and engineer despatch. System knowledge in the customer base with very low resulting in frequent false positives and callouts.
+- **The Solution:** Customer designed web app with guided test and fault finding. App compiles test and user entered data, automates engineer despatch when criteria are met. Automates customer communication at each step.
 
 **Stack:** `Google Apps Script` • `JavaScript (ES6+)` • `SAP S/4HANA (OData/JSON)`
 
-*(Drag & drop your Fault App .mp4 clip on the line below)*
+https://github.com/user-attachments/assets/8e7d0db2-caab-4949-962f-cd4da7ffe551
 
 ---
 
