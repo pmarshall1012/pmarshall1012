@@ -17,11 +17,12 @@ Twenty years of commercial leadership taught me what actually moves the needle i
 
 ### Featured Builds
 
-#### HALO Agent Harness
-**Model-agnostic, persistent, multi-agent development environment**  
-Built to solve the reliability gap in autonomous coding, HALO separates planning and verification from execution inside isolated virtual Linux sandboxes (`E2B`):
-- **Independent Verification Loop:** A core orchestrator generates the technical spec and a suite of read-only compliance tests before passing work to an execution agent (and any sub-agents it spawns). Output is rejected and iterated until all tests pass.
-- **Persistent Memory:** Cross-session memory (`Mem0`) allows agents to retain context and architectural decisions across tasks.
+#### HALO
+**Model-agnostic, persistent, multi-agent harness**  
+Built to solve the reliability gap in autonomous coding HALO separates planning, verification and execution inside isolated virtual Linux sandboxes (`E2B`). ZX Spectrum era styling, because I like it.
+- **Independent Verification Loop:** A core orchestrator AI generates technical specs and deterministic tests before passing work to an execution agent (and any sub-agents it spawns).
+- **Persistence** Execution agent output is iterated until all tests pass.
+- **Learns On The Job** Cross-session memory (`Mem0`) allows agents to retain context and architectural decisions across tasks.
 
 **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`
 
@@ -68,7 +69,7 @@ https://github.com/user-attachments/assets/c30163ef-8b48-4768-85bc-4ce02f7e80fa
 | **AI & Agentic Systems** | Multi-Agent Orchestration, Structured Output Extraction (JSON), RAG & Long-Term Memory (`Mem0`), Prompt Engineering, Model-Agnostic Harnesses |
 | **Languages & Frameworks** | JavaScript (`ES6+`), TypeScript, Python, Node.js, Next.js, React, FastAPI, Google Apps Script |
 | **Data & Enterprise Systems** | SQLite, SAP S/4HANA, Google Workspace, CSV/JSON ETL Pipelines |
-| **Commercial & Governance** | P&L Management (£multi-million portfolios), Contract Negotiation, Continuous Improvement (Lean/Six Sigma), US-UK ITAR Export Compliance |
+| **Commercial & Governance** | P&L Management (multi-million £ portfolios), Contract Negotiation, Continuous Improvement (Lean/Six Sigma), US-UK ITAR Export Compliance |
 
 ---
 
