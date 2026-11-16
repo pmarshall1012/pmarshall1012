@@ -26,14 +26,14 @@ Built to solve the reliability gap in autonomous coding HALO separates planning,
 
 **Stack:** `Node.js` • `TypeScript` • `Express` • `WebSockets` • `E2B Sandboxes` • `OpenRouter` • `Mem0`
 
-*(Drag & drop your HALO .mp4 clip on the line below — keep blank lines above and below)*
+https://github.com/user-attachments/assets/1cbe1ff9-b626-467c-b3d0-16b231925b7a
 
 ---
 
 #### Enterprise Fault Reporting & Triage App
 **Self-service diagnostic web application with automated Engineer despatch**  
 - **The Problem:** The business ran on manual telephone fault reporting and engineer despatch. System knowledge in the customer base with very low resulting in frequent false positives and callouts.
-- **The Solution:** Customer designed web app with guided test and fault finding. App compiles test and user entered data, automates engineer despatch when criteria are met. Automates customer communication at each step.
+- **The Solution:** Custom web app with guided test and fault finding capability. App compiles test data and automates engineer despatch based on criteria matching. Automates customer communication at each step of the process.
 
 **Stack:** `Google Apps Script` • `JavaScript (ES6+)` • `SAP S/4HANA (OData/JSON)`
 
